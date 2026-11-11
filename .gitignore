@@ -1,0 +1,11 @@
+# Local Python files; keep project code, maps, tests, CSV results, and report PDFs.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+.env
+
+# Output of run_all.sh (reproduction only; submitted results live in results/)
+results_rerun/

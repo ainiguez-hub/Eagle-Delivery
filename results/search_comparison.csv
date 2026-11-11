@@ -1,0 +1,8 @@
+map,delivery_task,bfs_route_length,astar_route_length,bfs_expanded,astar_expanded
+maps/emu_campus.txt,S->W,18,18,67,22
+maps/emu_campus.txt,L->D,22,22,79,62
+maps/emu_campus.txt,H->P,16,16,41,16
+maps/emu_detour.txt,S->W,26,26,70,51
+maps/emu_detour.txt,L->D,22,22,65,60
+maps/emu_detour.txt,H->P,16,16,41,16
+maps/my_campus.txt,S->W,20,20,83,25

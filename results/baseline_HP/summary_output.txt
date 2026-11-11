@@ -1,0 +1,6 @@
+Evaluation across 3 independent training seeds:
+success_rate mean = 1.0 sample SD = 0.0
+mean_return mean = 24.0 sample SD = 0.0
+Per-seed mean_steps_success: ['16', '16', '16']
+Wrote results/baseline_HP/learning_curve.csv
+Plot episode_end against mean_training_success_rate.
